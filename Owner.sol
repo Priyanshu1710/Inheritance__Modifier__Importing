@@ -1,5 +1,6 @@
 pragma solidity ^0.5.11;
 
+//Import Contract and integrate with Modifier__..... .sol
 contract Owned {
     address owner;
     constructor() public {
